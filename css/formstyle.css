@@ -1,9 +1,9 @@
-html{min-width: 780px;}
+
 #logo {width: 100px;
     height: 100px;
     margin-bottom: -20vh;
     margin-top: 5vh;
-    margin-left: 5vw;
+    margin-left: 4vw;
     }
 #headerpart {display: flex;
         flex-direction: row;}
@@ -12,6 +12,7 @@ html{min-width: 780px;}
 #f-buttoncontainer{display: flex;
     justify-content: flex-end;
     flex-wrap: wrap;
+    margin-left: 18vw;
     
 }
 .f-button, .mf-button {
@@ -95,6 +96,7 @@ width: 100%;
 }
 
 
-footer {display: flex;
+.footer {display: flex;
         justify-content: space-evenly;
-        flex-wrap: wrap;}
+        flex-wrap: wrap;
+        flex-direction: row;}

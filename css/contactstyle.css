@@ -12,6 +12,7 @@
 #c-buttoncontainer{display: flex;
     justify-content: flex-end;
     flex-wrap: wrap;
+    margin-left: 18vw;
 
 }
 #mc-button {color: rgb(88, 56, 88);}
@@ -25,7 +26,7 @@
 }
 
 #mc-button {color:rgb(236, 169, 236);}
-footer {display: flex;
+.footer {display: flex;
     
     justify-content: space-evenly;
     flex-wrap: wrap;}
